@@ -44,8 +44,10 @@
 					</section>
 
 					  <!-- Next and previous buttons -->
-					  <span class="prev">&#10094;</span>
-					  <span class="next">&#10095;</span>
+					<div class="buttons">
+					  <span class="prev">&#8592;</span>
+					  <span class="next">&#8594;</span>
+					</div>
 				</section>
 			</section>
 		</main>
