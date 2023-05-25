@@ -26,7 +26,7 @@
 
 
 			<section class="contruction">
-				<h1>NOSOTROS</h1>
+				<h1>PROYECTOS</h1>
 				<p>EN CONSTRUCCIÓN</p>
 			</section>
 			

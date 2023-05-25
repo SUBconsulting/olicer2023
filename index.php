@@ -18,6 +18,7 @@
 						<li><a href="/contacto#bolsa-de-trabajo">Bolsa de Trabajo</a></li>
 						<li><a href="/contacto">Contacto</a></li>
 					</ul>
+					<div class="overlay"></div>
 				</div>
 			</div>
 		</header>
@@ -85,7 +86,7 @@
 					</div>
 				</div>
 				<div class="ctaSection">
-					<a href="contacto">¡ME INTERESA!</a>
+					<a href="/contacto">¡ME INTERESA!</a>
 				</div>
 			</section>
 			<section class="nosotrosSection">
@@ -107,7 +108,7 @@
 						<h3>SERVICIOS</h3>
 						<p>Nos enfocamos en brindar un servicio de <b>calidad, personalizado y eficiente</b>, asegurando la satisfacción total de nuestros clientes.</p>
 						<p>Contamos con un equipo <b>altamente capacitado</b> de ingenieros, arquitectos y especialistas en diversas áreas de la construcción, que trabajan en conjunto para lograr resultados sobresalientes.</p>
-						<a class="conocer" href="/nosotros">CONOCER MÁS</a>
+						<a class="conocer" href="/nosotros#servicios">CONOCER MÁS</a>
 					</div>
 				</div>
 			</section>
@@ -140,6 +141,8 @@
 					</div>
 				</div>
 			</section>
+
+			
 		</main>
 		<?php include("footer.php");?>
 	</body>
