@@ -30,6 +30,8 @@
 				<p>EN CONSTRUCCIÓN</p>
 			</section>
 			
+
+			
 		</main>
 		<?php include("footer.php");?>
 	</body>
